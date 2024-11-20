@@ -1,6 +1,10 @@
 Fabric 1.19.2
 
 
+Maybe?
+Nyctophobia [https://modrinth.com/mod/nyctophobia]
+
+
 Hex Casting v0.10.3 [https://modrinth.com/mod/hex-casting]
 Hex Gloop v0.2.0 [https://modrinth.com/mod/hexgloop]
 Mediaworks v1.0.7 [https://modrinth.com/mod/mediaworks]
@@ -28,6 +32,7 @@ Rustic Delight [https://modrinth.com/mod/rustic-delight]
 Corn Delight [https://modrinth.com/mod/corn-delight-fabric]
 Farmer's Respite [https://www.curseforge.com/minecraft/mc-mods/farmers-respite-fabric]
 Respite/Create Compat [https://modrinth.com/mod/respite-creators-fabric]
+Chef's Delight [https://modrinth.com/mod/chefs-delight]
 
 Farmer's Delight / Create compat [https://modrinth.com/mod/slice-and-dice]
 
@@ -37,9 +42,22 @@ EMI Trades v1.0.2 [https://modrinth.com/mod/emitrades]
 EMI Loot v0.6.6 [https://modrinth.com/mod/emi-loot]
 EMI/Farmers Delight [https://modrinth.com/mod/emi_farmersdelight]
 
+Yung's Stuff
+[https://modrinth.com/mod/yungs-better-desert-temples]
+[https://modrinth.com/mod/yungs-better-jungle-temples]
+[https://modrinth.com/mod/yungs-better-witch-huts]
+[https://modrinth.com/mod/yungs-better-strongholds]
+[https://modrinth.com/mod/yungs-better-ocean-monuments]
+[https://modrinth.com/mod/yungs-better-mineshafts]
+[https://modrinth.com/mod/yungs-better-nether-fortresses]
+[https://modrinth.com/mod/yungs-better-dungeons]
+
+
 Misc
 Create Origin compat [https://modrinth.com/mod/create-origins]
 Snow! Real Magic! ⛄ [https://modrinth.com/mod/snow-real-magic]
+Geophillic [https://modrinth.com/datapack/geophilic]
+
 
 Convenience
 Mod Menu v4.1.2 [https://modrinth.com/mod/modmenu]
@@ -63,3 +81,4 @@ PAUCAL v0.5.0 [https://www.curseforge.com/minecraft/mc-mods/paucal/]
 Fabric Language Kotlin v1.12.3 [https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin] dw about the version number, it doesnt matter
 Cardinal Components API v5.0.2 [https://www.curseforge.com/minecraft/mc-mods/cardinal-components-api]
 Cloth Config v8.3.134  [https://www.curseforge.com/minecraft/mc-mods/cloth-config]
+Yung's API [https://modrinth.com/mod/yungs-api]
