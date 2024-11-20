@@ -26,4 +26,8 @@ Lithium v0.11.1 [https://modrinth.com/mod/lithium]
 
 Dependencies
 Architectury API v6.6.92 [https://modrinth.com/mod/architectury-api]
-Patchouli v1.19.2-77 [https://modrinth.com/mod/patchouli]
+Patchouli v1.19.2-77-FABRIC [https://www.curseforge.com/minecraft/mc-mods/patchouli-fabric/]
+PAUCAL v0.5.0 [https://www.curseforge.com/minecraft/mc-mods/paucal/]
+Fabric Language Kotlin v1.12.3 [https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin] dw about the version number, it doesnt matter
+Cardinal Components API v5.0.2 [https://www.curseforge.com/minecraft/mc-mods/cardinal-components-api]
+Cloth Config v8.3.134  [https://www.curseforge.com/minecraft/mc-mods/cloth-config]
