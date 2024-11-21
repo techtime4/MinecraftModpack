@@ -1,20 +1,8 @@
 Fabric 1.19.2
 
-
-Maybe?
-Nyctophobia                     https://modrinth.com/mod/nyctophobia
-Haunted Harvest                 https://modrinth.com/mod/haunted-harvest
+Server only
 Spark                           https://modrinth.com/mod/spark
-Chunky                          https://modrinth.com/plugin/chunky
-Right Click Harvest             https://modrinth.com/mod/rightclickharvest
-Alternate Current               https://modrinth.com/mod/alternate-current
-Comforts                        https://modrinth.com/mod/comforts
-Seasons                         https://modrinth.com/mod/fabric-seasons
-Seasons Extra                   https://modrinth.com/mod/fabric-seasons-extras
-Seasons/Farmer's Delight Compat https://modrinth.com/mod/fabric-seasons-delight-compat
-Do a Barrel Roll                https://modrinth.com/mod/do-a-barrel-roll
-Better Than Mending             https://modrinth.com/mod/better-than-mending
-
+Clumps v9.0.0                   https://modrinth.com/mod/clumps
 
 Hex Casting v0.10.3             https://modrinth.com/mod/hex-casting
 Hex Gloop v0.2.0                https://modrinth.com/mod/hexgloop
@@ -23,8 +11,6 @@ More Iotas v0.0.4               https://modrinth.com/mod/moreiotas
 Oneironaut v0.3.4               https://modrinth.com/mod/oneironaut
 Hexal                           https://modrinth.com/mod/hexal
 Hex Research                    https://modrinth.com/mod/hex-research
-
-Pehkui v3.8.3                   https://modrinth.com/mod/pehkui
 
 Create                          https://modrinth.com/mod/create-fabric
 Create Enchantment Industry     https://modrinth.com/mod/create-enchantment-industry-fabric
@@ -48,7 +34,6 @@ Corn Delight                    https://modrinth.com/mod/corn-delight-fabric
 Farmer's Respite                https://www.curseforge.com/minecraft/mc-mods/farmers-respite-fabric
 Respite/Create Compat           https://modrinth.com/mod/respite-creators-fabric
 Chef's Delight                  https://modrinth.com/mod/chefs-delight
-
 Farmer's Delight / Create compat     https://modrinth.com/mod/slice-and-dice
 
 EMI
@@ -67,12 +52,13 @@ https://modrinth.com/mod/yungs-better-mineshafts
 https://modrinth.com/mod/yungs-better-nether-fortresses
 https://modrinth.com/mod/yungs-better-dungeons
 
-
 Misc
 Snow! Real Magic! ⛄            https://modrinth.com/mod/snow-real-magic
 Geophillic                      https://modrinth.com/datapack/geophilic
 Snow Under Trees                https://modrinth.com/mod/snow-under-trees-remastered
-
+Seasons                         https://modrinth.com/mod/fabric-seasons
+Seasons Extra                   https://modrinth.com/mod/fabric-seasons-extras
+Seasons/Farmer's Delight Compat https://modrinth.com/mod/fabric-seasons-delight-compat
 
 Convenience
 Jade                            https://modrinth.com/mod/jade
@@ -85,6 +71,8 @@ Panda's Falling Trees v0.12.3   https://modrinth.com/mod/pandas-falling-trees
 Antique Atlas                   https://modrinth.com/mod/antique-atlas-4
 Lootr v0.4.28.69                https://modrinth.com/mod/lootr
 Crafting Tweaks                 https://modrinth.com/mod/crafting-tweaks
+Right Click Harvest             https://modrinth.com/mod/rightclickharvest
+Comforts                        https://modrinth.com/mod/comforts
 
 Performance
 Lithium v0.11.1                 https://modrinth.com/mod/lithium
@@ -93,10 +81,9 @@ Sodium v0.4.4                   https://modrinth.com/mod/sodium
 Phosphor v0.8.1                 https://modrinth.com/mod/phosphor
 Indium                          https://modrinth.com/mod/indium
 Entity Culling v1.6.1           https://modrinth.com/mod/entityculling
-Clumps v9.0.0 (server only)     https://modrinth.com/mod/clumps
 Memory Leak Fix v1.1.5          https://modrinth.com/mod/memoryleakfix
 Ready Player Fun                https://modrinth.com/mod/ready-player-fun
-Alternate Current               
+Alternate Current               https://modrinth.com/mod/alternate-current           
 
 Dependencies
 Architectury API v6.6.92        https://modrinth.com/mod/architectury-api
@@ -111,3 +98,4 @@ Geckolib                        https://modrinth.com/mod/geckolib
 Cloth Config                    https://modrinth.com/mod/cloth-config
 Why not be one item             https://modrinth.com/mod/wnboi
 Kiwi                            https://modrinth.com/mod/kiwi
+Pehkui v3.8.3                   https://modrinth.com/mod/pehkui
