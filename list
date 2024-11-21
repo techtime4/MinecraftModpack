@@ -18,10 +18,10 @@ Copycats                        https://modrinth.com/mod/copycats
 Create Deco                     https://modrinth.com/mod/create-deco
 Create Crafts & Additions       https://modrinth.com/mod/createaddition
 Create Steam 'n' rails          https://modrinth.com/mod/create-steam-n-rails
-Create Interactive              https://modrinth.com/mod/interactive
+#Create Interactive              https://modrinth.com/mod/interactive
 Create Framed                   https://modrinth.com/mod/create-framed
-Create Crystal Clear            https://modrinth.com/mod/create-crystal-clear
-Create Track Map                https://modrinth.com/mod/create-track-map
+#Create Crystal Clear            https://modrinth.com/mod/create-crystal-clear
+#Create Track Map                https://modrinth.com/mod/create-track-map
 
 Villager Change                 
 CTOV                           https://modrinth.com/mod/ct-overhaul-village/gallery
@@ -29,10 +29,10 @@ CTOV Farmer's Delight          https://modrinth.com/datapack/ctov-farmers-deligh
 CTOV Chef's Delight            https://modrinth.com/datapack/ctov-chefs-delight-compat
 
 Farmer's Delight                https://modrinth.com/mod/farmers-delight-fabric
-Rustic Delight                  https://modrinth.com/mod/rustic-delight
+#Rustic Delight                  https://modrinth.com/mod/rustic-delight
 Corn Delight                    https://modrinth.com/mod/corn-delight-fabric
-Farmer's Respite                https://www.curseforge.com/minecraft/mc-mods/farmers-respite-fabric
-Respite/Create Compat           https://modrinth.com/mod/respite-creators-fabric
+#Farmer's Respite                https://www.curseforge.com/minecraft/mc-mods/farmers-respite-fabric
+#Respite/Create Compat           https://modrinth.com/mod/respite-creators-fabric
 Chef's Delight                  https://modrinth.com/mod/chefs-delight
 Farmer's Delight / Create compat     https://modrinth.com/mod/slice-and-dice
 
@@ -93,6 +93,7 @@ Fabric Language Kotlin v1.12.3  https://www.curseforge.com/minecraft/mc-mods/fab
 Cardinal Components API v5.0.2  https://www.curseforge.com/minecraft/mc-mods/cardinal-components-api
 Cloth Config v8.3.134           https://www.curseforge.com/minecraft/mc-mods/cloth-config
 Yung's API                      https://modrinth.com/mod/yungs-api
+Jamlib                          https://modrinth.com/mod/jamlib
 Pandalib                        https://modrinth.com/mod/pandalib
 Geckolib                        https://modrinth.com/mod/geckolib
 Cloth Config                    https://modrinth.com/mod/cloth-config
